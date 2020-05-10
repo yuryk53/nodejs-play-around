@@ -1,4 +1,4 @@
-const Q = require('q');
+const Q = require('Q');
 const figlet = require('figlet');
 
 const figletAsync = Q.nbind(figlet);
