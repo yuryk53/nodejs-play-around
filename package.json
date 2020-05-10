@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/yuryk53/nodejs-play-around#readme",
   "dependencies": {
-    "Q": "^1.0.0",
     "express": "^4.17.1",
-    "figlet": "^1.4.0"
+    "figlet": "^1.4.0",
+    "q": "^1.5.1"
   }
 }
