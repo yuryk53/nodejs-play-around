@@ -20,4 +20,5 @@ router.route('/ascii-art/:name')
 
 express()
     .use(router)
-    .listen(8080);
+    .listen(8080)
+    .on('listening', () => console.log('Server is listening on http://localhost:8080'));
