@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-play-around",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuryk53/nodejs-play-around.git"
+  },
+  "author": "Yurii Bilyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuryk53/nodejs-play-around/issues"
+  },
+  "homepage": "https://github.com/yuryk53/nodejs-play-around#readme",
+  "dependencies": {
+    "Q": "^1.0.0",
+    "express": "^4.17.1",
+    "figlet": "^1.4.0"
+  }
+}
